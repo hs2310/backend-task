@@ -10,7 +10,7 @@ Few Assumptions :
 
 To run the app :
 * cd backend-task
-* node server.js
+* node index.js
 
 To test the app we can use postman:
 
